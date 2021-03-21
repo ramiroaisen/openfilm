@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Gobold;
+    font-weight: 400;
+    font-style: normal;
+    src: url("Gobold.woff") format("woff");
+}
+
+@font-face {
+    font-family: Gobold;
+    font-weight: 400;
+    font-style: italic;
+    src: url("Gobold Italic.woff") format("woff"),
+}
